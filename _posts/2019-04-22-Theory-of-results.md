@@ -4,7 +4,7 @@ title: Theory of Results
 categories: Theories
 ---
 
-![results vs memory](assets\results.PNG)
+![results vs memory](https://i.imgur.com/pLGZCHV.png)
 
 * Your results from today are not from today.
 * Results are an accumulation of tiny choices over time.
