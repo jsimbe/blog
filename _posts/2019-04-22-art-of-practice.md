@@ -4,6 +4,7 @@ title: The Art of Practice
 categories: Motivation
 ---
 
+* __How__ you practice is just as important as __how much__ you practice
 * practice should be goalless
 * learn to love the plateau
 * focus on the process, not the product
