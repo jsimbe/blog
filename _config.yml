@@ -29,6 +29,9 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 paginate: 5
 paginate_path: /page:num/
+plugins:
+  - jekyll-remote-theme
+remote-theme: mmistakes/minimal-mistakes
 defaults:
   # _posts
   - scope:
