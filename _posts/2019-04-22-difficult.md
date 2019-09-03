@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: It is difficult
 categories: Motivation
 ---

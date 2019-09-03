@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: The Boiling Water Thought Experiment
 categories: Theories
 ---

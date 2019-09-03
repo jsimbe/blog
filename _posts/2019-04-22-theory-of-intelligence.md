@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Theory of Intelligence
 categories: Theories
 ---

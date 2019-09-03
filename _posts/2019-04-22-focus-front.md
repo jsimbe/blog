@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Focus on what is in front of you
 categories: Motivation
 ---
