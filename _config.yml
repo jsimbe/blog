@@ -30,6 +30,13 @@ paginate: 5
 paginate_path: /page:num/
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
 remote_theme: mmistakes/minimal-mistakes
 defaults:
   # _posts
