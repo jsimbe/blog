@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Theory of Results
 categories: Theories
 ---

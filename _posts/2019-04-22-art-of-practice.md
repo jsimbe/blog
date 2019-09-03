@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: The Art of Practice
 categories: Motivation
 ---
