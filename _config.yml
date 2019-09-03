@@ -26,12 +26,11 @@ repository: "jsimbe/blog"
 show_excerpts: true
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
 paginate: 5
 paginate_path: /page:num/
 plugins:
   - jekyll-remote-theme
-remote-theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 defaults:
   # _posts
   - scope:
